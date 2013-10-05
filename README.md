@@ -6,3 +6,5 @@ AppleScript version of the [Office 2011 Uninstaller](https://github.com/danijelj
 
 #### Contribution
 I would love to see people contribute to this. Whether it's a [bug report](https://github.com/danijeljames/Office_2011_Removal_AppleScript/issues/new), feature suggestion or a pull request. Any questions? Please send me a tweet to @danijeljames.
+
+[**Download**](https://github.com/danijeljames/Office_2011_Removal_AppleScript/archive/compiled-app.zip)
